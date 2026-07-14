@@ -9,11 +9,9 @@ Senior Data Engineer at Arc'teryx, in Vancouver. I make sure the data actually g
 
 ### What I work with
 
-**Platforms** Databricks · Spark · Kafka · Snowflake · Redshift · Teradata
-**Cloud** Azure (Synapse, Data Factory, Event Hub) · AWS (EMR, Kinesis, Lambda, S3)
-**Pipelines** Airflow · dbt · Terraform · GitHub Actions · Azure DevOps
-**Languages** Python · SQL · Scala · Java · Bash
-**Ops** Docker · Kubernetes · Prometheus · Grafana
+<img src="stack.svg" alt="Data: Databricks, Spark, Kafka, Airflow, dbt, Snowflake. Cloud: Azure, AWS, GCP, Terraform, Docker, Kubernetes. Code: Python, SQL, Scala, Java, Bash. Analytics: Power BI, MLflow, scikit-learn, Grafana, Prometheus.">
+
+<sub>Those badges aren't shields.io. [`build-stack.py`](build-stack.py) inlines the logos and renders [`stack.svg`](stack.svg), so they're served from this repo and can't be rate-limited or taken down.</sub>
 
 ### Work I'm proud of
 
@@ -40,3 +38,6 @@ Senior Data Engineer at Arc'teryx, in Vancouver. I make sure the data actually g
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p33ves/p33ves/output/snake.svg">
   <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/p33ves/p33ves/output/snake.svg">
 </picture>
+
+<img src="https://komarev.com/ghpvc/?username=p33ves&style=flat&color=1F2430" alt="Profile views">
+
