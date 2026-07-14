@@ -1,6 +1,6 @@
 # Vignesh Perumal
 
-Senior Data Engineer at Arc'teryx, in Vancouver. I make sure the data actually gets where it needs to go, and that people trust it when it arrives. Since 2016, across retail, fintech, and supply chain.
+Senior Data Engineer at Arc'teryx, in Vancouver. I make sure the data actually gets where it needs to go, model it for what business actually cares about and ensure that people can trust what I give them. Since 2016, across retail, fintech, and supply chain.
 
 - **Now:** B2B sales analytics on Databricks, plus enterprise data quality standards on ODCS and DQX
 - **Lately:** agentic workflows, vector search, LLM-backed systems
@@ -11,7 +11,7 @@ Senior Data Engineer at Arc'teryx, in Vancouver. I make sure the data actually g
 
 <img src="stack.svg" alt="Data: Databricks, Spark, Kafka, Airflow, dbt, Snowflake. Cloud: Azure, AWS, GCP, Terraform, Docker, Kubernetes. Code: Python, SQL, Scala, Java, Bash. Analytics: Power BI, MLflow, scikit-learn, Grafana, Prometheus.">
 
-<sub>Those badges aren't shields.io. [`build-stack.py`](build-stack.py) inlines the logos and renders [`stack.svg`](stack.svg), so they're served from this repo and can't be rate-limited or taken down.</sub>
+<sub>Those badges aren't shields.io. [`build-badges.py`](build-badges.py) inlines the logos and renders [`stack.svg`](stack.svg), so they're served from this repo and can't be rate-limited or taken down.</sub>
 
 ### Work I'm proud of
 
@@ -31,7 +31,9 @@ Senior Data Engineer at Arc'teryx, in Vancouver. I make sure the data actually g
 
 ### Elsewhere
 
-[Portfolio](https://p33ves.github.io/) · [LinkedIn](https://www.linkedin.com/in/perumal-vignesh/) · [Email](mailto:itsvigneshperumal@gmail.com)
+[<img src="badges/portfolio.svg" alt="Portfolio">](https://p33ves.github.io/)
+[<img src="badges/linkedin.svg" alt="LinkedIn">](https://www.linkedin.com/in/perumal-vignesh/)
+[<img src="badges/email.svg" alt="Email">](mailto:itsvigneshperumal@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p33ves/p33ves/output/snake-dark.svg">
