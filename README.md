@@ -20,7 +20,7 @@ Senior Data Engineer at Arc'teryx, in Vancouver. I design and operate large-scal
 - A metadata-driven ELT framework pulling SAP BW and S/4 HANA into Azure Data Lake, ingesting 300+ tables on a daily refresh.
 - Streaming ingestion for AWS Q chat with PII redaction, feeding 60+ dashboards for 400+ stakeholders.
 - An LLM product assistant on MLFlow for in-store associates, cutting product attribute lookup times by 70%.
-- Implemented a robust data processing platform in using Azure Databricks instance pools for orchestrations, tags for governance and SQL Alerts for monitoring, reducing cloud spending by 6x.
+- Implemented a robust data processing platform using Azure Databricks instance pools for orchestrations, tags for governance and SQL Alerts for monitoring, reducing cloud spending by 6x.
 
 ### Repos worth a look
 
