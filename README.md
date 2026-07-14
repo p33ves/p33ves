@@ -1,9 +1,9 @@
 # Vignesh Perumal
 
-Senior Data Engineer at Arc'teryx, in Vancouver. I design and operate large-scale data platforms: metadata-driven ELT frameworks, streaming ingestion, and the analytics products people actually make decisions with. Been at this since 2016, across retail, fintech, and cloud.
+Senior Data Engineer at Arc'teryx, in Vancouver. I make sure the data actually gets where it needs to go, and that people trust it when it arrives. Since 2016, across retail, fintech, and supply chain.
 
-- **Now:** B2B sales analytics on Databricks, plus enterprise Data Quality standards using ODCS and DQX
-- **Lately:** Agentic workflows, Vector Search and LLM-backed systems
+- **Now:** B2B sales analytics on Databricks, plus enterprise data quality standards on ODCS and DQX
+- **Lately:** agentic workflows, vector search, LLM-backed systems
 - **Before:** AWS, Best Buy Canada, Procogia, Wells Fargo
 - **School:** MSc Professional Computer Science (Big Data), Simon Fraser University
 
@@ -15,12 +15,12 @@ Senior Data Engineer at Arc'teryx, in Vancouver. I design and operate large-scal
 **Languages** Python · SQL · Scala · Java · Bash
 **Ops** Docker · Kubernetes · Prometheus · Grafana
 
-### A few things I've shipped
+### Work I'm proud of
 
 - A metadata-driven ELT framework pulling SAP BW and S/4 HANA into Azure Data Lake, ingesting 300+ tables on a daily refresh.
 - Streaming ingestion for AWS Q chat with PII redaction, feeding 60+ dashboards for 400+ stakeholders.
-- An LLM product assistant on MLFlow for in-store associates, cutting product attribute lookup times by 70%.
-- Implemented a robust data processing platform using Azure Databricks instance pools for orchestrations, tags for governance and SQL Alerts for monitoring, reducing cloud spending by 6x.
+- An LLM product assistant on MLflow for in-store associates, cutting product attribute lookup times by 70%.
+- A Databricks platform on instance pools, tags for governance and SQL Alerts for monitoring. Cloud spend dropped 6x.
 
 ### Repos worth a look
 
@@ -34,3 +34,9 @@ Senior Data Engineer at Arc'teryx, in Vancouver. I design and operate large-scal
 ### Elsewhere
 
 [Portfolio](https://p33ves.github.io/) · [LinkedIn](https://www.linkedin.com/in/perumal-vignesh/) · [Email](mailto:itsvigneshperumal@gmail.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p33ves/p33ves/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p33ves/p33ves/output/snake.svg">
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/p33ves/p33ves/output/snake.svg">
+</picture>
