@@ -2,7 +2,7 @@
 
 Senior Data Engineer at Arc'teryx, in Vancouver. I make sure the data actually gets where it needs to go, model it for what business actually cares about and ensure that people can trust what I give them. Since 2016, across retail, fintech, and supply chain.
 
-- **Now:** B2B sales analytics on Databricks, plus enterprise data quality standards on ODCS and DQX
+- **Now:** B2B sales analytics on Databricks, enterprise data quality standards using ODCS and DQX
 - **Lately:** agentic workflows, vector search, LLM-backed systems
 - **Before:** AWS, Best Buy Canada, Procogia, Wells Fargo
 - **School:** MSc Professional Computer Science (Big Data), Simon Fraser University
